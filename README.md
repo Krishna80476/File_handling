@@ -14,6 +14,7 @@ MENTOR:NEELA SANTOSH
 
 HELP FROM SOURCES:YOUTUBE,CHATGPT,GOOGLE
 
+OUTPUT :   ![Image](https://github.com/user-attachments/assets/1aa638e7-e036-42e3-bc0a-156a3e6b4629)
 
 
 
